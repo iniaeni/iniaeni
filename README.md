@@ -14,5 +14,5 @@
 <code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/git.png"></code>
 
 ### 📫 You can reach me on:
-- LinkedIn: [Siti Nuraeni]https://www.linkedin.com/in/siti-nuraeni-767aaa21b/)
+- LinkedIn: [Siti Nuraeni](https://www.linkedin.com/in/siti-nuraeni-767aaa21b/)
 - Instagram: [aeninrnii](https://www.instagram.com/aeninrnii)
