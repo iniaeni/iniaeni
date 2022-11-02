@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 👋 I’m aeni
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm interested in programming languages
+- 🌱 I'm studying at SMK Wikrama Bogor
+- 💞️ Software and Game Development Major
 
 ### :gear: Language and Tools 
 
@@ -16,4 +15,4 @@
 
 ### 📫 You can reach me on:
 - LinkedIn: [Siti Nuraeni]https://www.linkedin.com/in/siti-nuraeni-767aaa21b/)
-- Instagram: [Aldan Rizki Santosa](https://www.instagram.com/aeninrnii)
+- Instagram: [aeninrnii](https://www.instagram.com/aeninrnii)
