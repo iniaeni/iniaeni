@@ -11,7 +11,7 @@
 <code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/html-5.png"></code>
 <code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/bootstrap.png"></code>
 <code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/php.png"></code>
-<code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/git.png"></code>
+<code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/android.png"></code>
 
 
 ### 📫 You can reach me on:
