@@ -7,11 +7,12 @@
 
 ### :gear: Language and Tools 
 
-<code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/css-3.png"></code>
+<code><img height="20" src="https://github.com/iniaeni/iniaeni/blob/master/assets/images/css-3.png"></code>
 <code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/html-5.png"></code>
 <code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/bootstrap.png"></code>
 <code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/php.png"></code>
 <code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/git.png"></code>
+<code><img height="20" src="https://github.com/inialdan/inialdan/blob/master/assets/images/javascript.png"></code>
 
 ### 📫 You can reach me on:
 - LinkedIn: [Siti Nuraeni](https://www.linkedin.com/in/siti-nuraeni-767aaa21b/)
