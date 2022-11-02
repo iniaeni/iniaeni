@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px">
 
 - 👋 I’m aeni
 - 👀 I'm interested in programming languages
